@@ -1,6 +1,6 @@
 #Software Engineer
 
-###Technical Skills: Java, Spring Boot, Rest API, GraphQL, SQL, NoSQL, AWS
+###Technical Skills: Java, Spring Boot, Rest API, GraphQL, SQL, NoSQL
 
 ###Education
 
