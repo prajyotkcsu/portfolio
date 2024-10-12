@@ -8,8 +8,7 @@
 
 ### Work Experience
 **Software Engineer @ Dish Network (March 2024 - Present)**
-***I’m a developer on this epic team called ‘Events’  that handles communication on behalf of other teams. This involves receiving close to 10 million events and notifications in a single day and routing them to their respective targets.***
-  
+*I’m a developer on this epic team called ‘Events’  that handles communication on behalf of other teams. This involves receiving close to 10 million events and notifications in a single day and routing them to their respective targets.*
 - Our pipeline uses AWS Lambda and EventBridge to ensure high throughput and minimal latency, allowing us to process and deliver events in near real-time.
 - Handling 10 million daily events requires robust scaling strategies, and we store data on AWS DynamoDB and use custom partitioning to manage load distribution.
 - In certain scenarios, we needed to delay the delivery of events by varying intervals—15, 25, or even 45 minutes. To address this, we developed an endpoint that accepts a customizable delay value and leveraged AWS Scheduled Events to precisely manage these delays.
