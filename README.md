@@ -1,6 +1,8 @@
 # Software Engineer
+*Hi, I'm a backend engineer and I have been worked in this industry for almost half and decade as of today. I enjoy writing code and solving complex engineering problems. My former CS education, daily coding practice, habit of writing about technologies helps me overcome any technical challenges*
 
-### Tech Stack: Java, Spring Boot, REST API, Kubernetes, Docker, AWS, Flink, Kafka, Elasticsearch, Airflow
+### Technical skills:
+Java, Spring Boot, REST API, Kubernetes, Docker, AWS, Flink, Kafka, Elasticsearch
 
 ### Education
 - M.S. Business Analytics | California State University, East Bay (May 2023)
