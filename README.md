@@ -8,17 +8,12 @@
 
 ### Work Experience
 **Software Engineer @ Dish Network (March 2024 - Present)**
-I'm a developer on the 'Events' team and we handle communication on behalf of teams that wish to send messages to other teams. We refer these messages as events, ans so the team name as Events team.
-Messages look some what like this
+***I’m a developer on this epic team called ‘Events’  that handles communication on behalf of other teams. This involves receiving close to 10 million events and notifications in a single day and routing them to their respective targets.***
+  
+- Our pipeline uses AWS Lambda and EventBridge to ensure high throughput and minimal latency, allowing us to process and deliver events in near real-time.
+- Handling 10 million daily events requires robust scaling strategies, and we store data on AWS DynamoDB and use custom partitioning to manage load distribution.
+- In certain scenarios, we needed to delay the delivery of events by varying intervals—15, 25, or even 45 minutes. To address this, we developed an endpoint that accepts a customizable delay value and leveraged AWS Scheduled Events to precisely manage these delays.
 
-
-
-
-Below are some of the cool stuff that I've done so far being on the team.
-- Built an API to delay message delivery by creating programmatic schedulers in AWS Schedule that sends messages to target teams only when the scheduler expire. This AWS component was never used before and was implemented and put into production for the first time. Mission accomplished and received applause from the rest of the team and the Engineering manager for my efforts behind a week long R&D to come up with this. We cutely named in 'The timer solution' that now other teams have adopted. 
-- Enhanced platform storage by introducing AWS DynamoDB, enabling high query volumes and supporting key features like automatic archival and Capture Data Change with DynamoDB Streams.
-- Engineered Apache Kafka infrastructure and servers to stream messages from various sources with 12% reduced cost.
-- Improved developer experience by 35 % with gRPC, GraphQL APIs to expose backend databases, enhancing API reusability and speeding up preference retrieval with Redis caching.
 
 **Software Engineer @ Financial Software & Systems (March 2018 - March 2021)**
 - Built numerous features for a data platform that routes over 1M events daily, including mechanisms such as retry, replay, incident creation, and delay management, using Java Spring Boot and AWS Lambdas.
