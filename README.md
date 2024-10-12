@@ -1,12 +1,12 @@
 # Software Engineer
-*Hi, I'm a backend engineer and I have been worked in this industry for almost half and decade as of today. I enjoy writing code and solving complex engineering problems. My former CS education, daily coding practice, habit of writing about technologies helps me overcome any technical challenges*
+*Hi, I’m a backend engineer with nearly half a decade of experience. My formal education in computer science, dedication to daily coding practice, and passion for writing technical blogs equip me to tackle challenges head-on and continually grow in this ever-evolving industry.*
 
 ### Technical skills:
 Java, Spring Boot, REST API, Kubernetes, Docker, AWS, Flink, Kafka, Elasticsearch
 
 ### Education
-- M.S. Business Analytics | California State University, East Bay (May 2023)
-- B.S. Information Technology | Mumbai University (May 2017)
+- M.S.; Business Analytics; California State University, East Bay (May 2023)
+- B.S.; Information Technology; Mumbai University (May 2017)
 
 ### Work Experience
 **Software Engineer @ Dish Network (March 2024 - Present)**
