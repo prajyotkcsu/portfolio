@@ -1,8 +1,13 @@
 # Software Engineer
-*Hi, I’m a backend engineer with nearly half a decade of experience. My formal education in computer science, dedication to daily coding practice, and passion for writing technical blogs equip me to tackle challenges head-on and continually grow in this ever-evolving industry.*
+*Hi, I’m a backend engineer with close to 5 years of experience. My formal education in computer science, dedication to daily coding practice, and passion for writing technical blogs equip me to tackle challenges head-on and continually grow as an engineer.*
 
-### Technical skills:
-Java, Spring Boot, REST API, Kubernetes, Docker, AWS, Flink, Kafka, Elasticsearch
+### What technologies I use
+- I code in Java but I also written programs in Python, Node.js, Javascript, C++ at some point in history, and now I'm learning Go on the side. *example code: [https://github.com/prajyotkcsu/leetcode-solutions]*
+- I'm a Spring Boot neard, it's a Java-based web framework. *example code: [https://github.com/prajyotkcsu/remind-gpt]* 
+- REST API, GraphQL, and gRPC protocol to build APIs and expose backend services.
+- Kubernetes, Docker, Linux, Harness, GitLab as part of deployment strategies.
+- Kafka, Flink, Spark, RabbitMQ, Elasticsearch for processing, searching, and streaming data.
+- AWS cloud and it's most 
 
 ### Education
 - M.S.; Business Analytics; California State University, East Bay (May 2023)
