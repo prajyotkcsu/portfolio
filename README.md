@@ -17,15 +17,15 @@
 **Software Engineer @ Dish Network (March 2024 - Present)**
 *I’m a developer on this epic team called ‘Events’  that handles communication on behalf of other teams. This involves receiving close to 10 million events and notifications in a single day and routing them to their respective targets.*
 
-### Projects I have built or contributed to independently so far
+#### Projects I have built or contributed to independently so far
 
 ###### 1.	Unified Deployment with Harness
 We traditionally used GitLab for code deployment across repositories and CloudFormation for AWS-based software. As pipeline issues arose—code inconsistently deploying across environments and delayed approvals due to inaccessible files—we conducted R&D to find a better solution. This led to adopting Harness, unifying deployments on a single platform for better tracking and consistency.
-###### 2.	Scaling Event Processing to 5 Million Without Lambda Throttling
+#### 2.	Scaling Event Processing to 5 Million Without Lambda Throttling
 We scaled event processing from 1 million to 5 million without crashing AWS Lambda by introducing AWS SQS as a pseudo buffer between AWS EventBridge and Lambda. This effectively prevented Lambda throttling, enabling smooth and efficient scaling.
-######  3.	API for Safe Event Stream Management
+####  3.	API for Safe Event Stream Management
 We designed an API to shut off the stream of events from specific sources flagged as unsafe, ensuring the rest of the workflow continued uninterrupted.
-###### 4.	Customizable Delays for Event Delivery
+#### 4.	Customizable Delays for Event Delivery
 In scenarios requiring delayed event delivery (e.g., 15, 25, or 45 minutes), we developed an endpoint that accepts a customizable delay value. AWS Scheduled Events were used to manage these delays with precision.
 
 
