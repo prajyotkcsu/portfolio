@@ -16,9 +16,7 @@
 ### Work Experience
 **Software Engineer @ Dish Network (March 2024 - Present)**
 *I’m a developer on this epic team called ‘Events’  that handles communication on behalf of other teams. This involves receiving close to 10 million events and notifications in a single day and routing them to their respective targets.*
-
-#### Projects I have built or contributed to independently so far
-
+##### Projects I have built or contributed to independently so far
 ###### 1.	Unified Deployment with Harness
 We traditionally used GitLab for code deployment across repositories and CloudFormation for AWS-based software. As pipeline issues arose—code inconsistently deploying across environments and delayed approvals due to inaccessible files—we conducted R&D to find a better solution. This led to adopting Harness, unifying deployments on a single platform for better tracking and consistency.
 #### 2.	Scaling Event Processing to 5 Million Without Lambda Throttling
@@ -30,7 +28,25 @@ In scenarios requiring delayed event delivery (e.g., 15, 25, or 45 minutes), we 
 
 
 **Software Engineer @ Financial Software & Systems (March 2018 - March 2021)**
-- Built numerous features for a data platform that routes over 1M events daily, including mechanisms such as retry, replay, incident creation, and delay management, using Java Spring Boot and AWS Lambdas.
-- Enhanced platform storage by introducing AWS DynamoDB, enabling high query volumes and supporting key features like automatic archival and Capture Data Change with DynamoDB Streams.
-- Engineered Apache Kafka infrastructure and servers to stream messages from various sources with 12% reduced cost.
-- Improved developer experience by 35 % with gRPC, GraphQL APIs to expose backend databases, enhancing API reusability and speeding up preference retrieval with Redis caching.
+*I’m a developer on this epic team called ‘Events’  that handles communication on behalf of other teams. This involves receiving close to 10 million events and notifications in a single day and routing them to their respective targets.*
+##### Projects worked on
+###### 1.	Translated a monolithic application to microservices.
+We traditionally used GitLab for code deployment across repositories and CloudFormation for AWS-based software. As pipeline issues arose—code inconsistently deploying across environments and delayed approvals due to inaccessible files—we conducted R&D to find a better solution. This led to adopting Harness, unifying deployments on a single platform for better tracking and consistency.
+
+### Internships
+**Software Engineer @ Orb (November 2023 - February 2023)**
+**Software Engineer @ Copart (July 2023 - November 2023)**
+**Software Engineer @ United Nations (January 2023 - May 2023)**
+
+### Popular Articles
+**It’s Me, a Lambda: A Friendly Introduction to AWS Lambda**
+**Need to track data changes in DynamoDB? Try DynamoDB Streams!**
+**Imagine being stuck with this error forever — deleting and rewriting your Lambda function won’t help, but this will.**
+
+### Personal Projects
+**Restuarant finder using Elasticsearch**
+**Reminder app using Kafka**
+
+### Leetcode solutions
+https://github.com/prajyotkcsu/leetcode-solutions
+
