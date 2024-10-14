@@ -26,16 +26,19 @@ We designed an API to shut off the stream of events from specific sources flagge
 In scenarios requiring delayed event delivery (e.g., 15, 25, or 45 minutes), we developed an endpoint that accepts a customizable delay value. AWS Scheduled Events were used to manage these delays with precision.<br>
 
 
-**Software Engineer @ Financial Software & Systems** (March 2018 - March 2021)<br>
-I’m a developer on this epic team called ‘Events’  that handles communication on behalf of other teams. This involves receiving close to 10 million events and notifications in a single day and routing them to their respective targets. Following are some of my contributions,<br>
+**Software Engineer @ Financial Software & Systems** (2018-2021)<br>
+Led the transition of a monolithic application to microservices using Java Spring Boot and a React frontend. This shift enabled rapid, lean deployments and empowered teams to work more independently, reducing reliance on cross-team consensus.<br>
 <br>
-Translated a monolithic application to microservices: We traditionally used GitLab for code deployment across repositories and CloudFormation for AWS-based software. As pipeline issues arose—code inconsistently deploying across environments and delayed approvals due to inaccessible files—we conducted R&D to find a better solution. This led to adopting Harness, unifying deployments on a single platform for better tracking and consistency.<br>
+Implemented Elasticache, reducing latency by 47%, and introduced AWS DynamoDB as a scalable, cloud-based database solution, improving throughput by 16%. Additionally, this move reduced the production cost of on-prem MySQL servers by 63%.<br>
 <br>
 
 ### Internships
-**Software Engineer @ Orb (November 2023 - February 2023)** <br> 
-**Software Engineer @ Copart (July 2023 - November 2023)** <br> 
-**Software Engineer @ United Nations (January 2023 - May 2023)** <br> 
+**Software Engineer @ Orb** (November 2023 - February 2024)<br>
+Gained experience building on web3 during its early stages. Utilized GCP extensively to develop and deploy solutions, handling everything from API calls to hosting user data.<br>
+**Software Engineer @ Copart** (July 2023 - November 2023)<br>
+Developed a digital wallet that enabled users to pay and receive money on the platform, integrating PayPal, Venmo, and Zelle as payment options. This feature supported 5 million daily users and helped the company transition to a paperless, cashless system.<br>
+**Software Engineer @ United Nations** (January 2023 - May 2023)<br> 
+As part of the Cybersecurity team at the United Nations International Computing Center, I enhanced an in-house security scanning tool by adding a survey feature. This allowed Product Owners to submit criticality forms and receive notifications after scans.
 
 ### Popular Articles
 [It’s Me, a Lambda: A Friendly Introduction to AWS Lambda](https://medium.com/@prajyotkcsu/its-me-a-lambda-a-friendly-introduction-to-aws-lambda-1632e6cdd7fd)<br> 
@@ -46,10 +49,10 @@ Translated a monolithic application to microservices: We traditionally used GitL
 
 ### Personal Projects
 [Restuarant finder using Elasticsearch](https://github.com/prajyotkcsu/find-near-me)<br> 
-This project leverages the ELK stack—Elasticsearch, Logstash, and Kibana—to store and retrieve information efficiently through indexing. Indexes are powerful, enabling search results in O(n) time complexity, making Elasticsearch an ideal choice for this application.
+This project leverages the ELK stack—Elasticsearch, Logstash, and Kibana—to store and retrieve information efficiently through indexing. Indexes are powerful, enabling search results in O(n) time complexity, making Elasticsearch an ideal choice for this application.<br>
 <br> 
 [Reminder app using Kafka](https://github.com/prajyotkcsu/remind-gpt)<br> 
-In this project, I utilized Apache Kafka to manage data storage and retrieval across partitions. This was an experimental endeavor to deepen my understanding of Kafka, and I also integrated OpenAI APIs to add intelligent features to the app.
+In this project, I utilized Apache Kafka to manage data storage and retrieval across partitions. This was an experimental endeavor to deepen my understanding of Kafka, and I also integrated OpenAI APIs to add intelligent features to the app.<br>
 <br>
-[Leetcode solutions](https://github.com/prajyotkcsu/leetcode-solutions)
+[Leetcode solutions](https://github.com/prajyotkcsu/leetcode-solutions)<br>
 
