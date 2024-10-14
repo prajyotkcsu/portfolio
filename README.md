@@ -15,7 +15,7 @@
 
 ### Work Experience:
 **Software Engineer @ Dish Network** (March 2024 - Present)<br>
-I’m a developer on this epic team called ‘Events’  that handles communication on behalf of other teams. This involves receiving close to 10 million events and notifications in a single day and routing them to their respective targets. Following are some of my contributions,<br>
+I’m a developer on this epic team called ‘Events’ that handles communication on behalf of other teams. We received 10M+ events and notifications per day and we route them to their respective targets. Following are some of my contributions for this team,<br>
 <br>
 We traditionally used GitLab for deploying code and CloudFormation for deploying AWS services. This would often cause inconsistences and delayed deployments-resulting in finding a better solution. This led to adopting Harness, unifying deployments on a single platform for better tracking and consistency.<br>
 <br>
