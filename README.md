@@ -1,5 +1,7 @@
 # Software Engineer
-*Hi, I’m a backend engineer with 5 years of experience. My background in CS, passion for coding daily, and occasional technical blogging equip me to tackle complex problems with confidence.*
+### Education:
+- M.S. Business Analytics; California State University, East Bay; 2023
+- B.S. Information Technology; Mumbai University; 2017
 
 ### Technical skills:
 - I code in Java but also know Python, JS, and Go.
@@ -8,10 +10,6 @@
 - Proficient in deploying software with Kubernetes, Docker, and GitLab.
 - Experienced with Kafka, Flink, Spark, RabbitMQ, and Elasticsearch.
 - Strong knowledge of AWS and Azure cloud platforms.
-
-### Education:
-- M.S. Business Analytics; California State University, East Bay; 2023
-- B.S. Information Technology; Mumbai University; 2017
 
 ### Work Experience:
 **Software Engineer @ Dish Network** (March 2024 - Present)<br>
