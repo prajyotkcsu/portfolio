@@ -2,19 +2,19 @@
 *Hi, I’m a backend engineer with 5 years of experience. My background in CS, passion for coding daily, and occasional technical blogging equip me to tackle complex problems with confidence.*
 
 ### Technical skills:
-I code in Java but also know Python, JS, and Go.<br>
-I’m a Spring Boot enthusiast, which is a Java-based web framework.<br>
-Skilled in building APIs with REST, GraphQL, and gRPC.<br>
-Proficient in deploying software with Kubernetes, Docker, and GitLab.<br>
-Experienced with Kafka, Flink, Spark, RabbitMQ, and Elasticsearch.<br>
-Strong knowledge of AWS and Azure cloud platforms.<br>
+- I code in Java but also know Python, JS, and Go.
+- I’m a Spring Boot enthusiast, which is a Java-based web framework.
+- Skilled in building APIs with REST, GraphQL, and gRPC.
+- Proficient in deploying software with Kubernetes, Docker, and GitLab.
+- Experienced with Kafka, Flink, Spark, RabbitMQ, and Elasticsearch.
+- Strong knowledge of AWS and Azure cloud platforms.
 
 ### Education:
 - M.S. Business Analytics; California State University, East Bay; 2023
 - B.S. Information Technology; Mumbai University; 2017
 
 ### Work Experience:
-**Software Engineer @ Dish Network (March 2024 - Present)** <br>
+**Software Engineer @ Dish Network** (March 2024 - Present)<br>
 I’m a developer on this epic team called ‘Events’  that handles communication on behalf of other teams. This involves receiving close to 10 million events and notifications in a single day and routing them to their respective targets. Following are some of my contributions,<br>
 <br>
 We traditionally used GitLab for deploying code and CloudFormation for deploying AWS services. This would often cause inconsistences and delayed deployments-resulting in finding a better solution. This led to adopting Harness, unifying deployments on a single platform for better tracking and consistency.<br>
@@ -26,7 +26,7 @@ We designed an API to shut off the stream of events from specific sources flagge
 In scenarios requiring delayed event delivery (e.g., 15, 25, or 45 minutes), we developed an endpoint that accepts a customizable delay value. AWS Scheduled Events were used to manage these delays with precision.<br>
 
 
-**Software Engineer @ Financial Software & Systems (March 2018 - March 2021)** <br>
+**Software Engineer @ Financial Software & Systems** (March 2018 - March 2021)<br>
 I’m a developer on this epic team called ‘Events’  that handles communication on behalf of other teams. This involves receiving close to 10 million events and notifications in a single day and routing them to their respective targets. Following are some of my contributions,<br>
 <br>
 Translated a monolithic application to microservices: We traditionally used GitLab for code deployment across repositories and CloudFormation for AWS-based software. As pipeline issues arose—code inconsistently deploying across environments and delayed approvals due to inaccessible files—we conducted R&D to find a better solution. This led to adopting Harness, unifying deployments on a single platform for better tracking and consistency.<br>
