@@ -1,5 +1,6 @@
 title: Prajyot Karnik
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
 logo: /assets/img/headshot_circle.png
-#description: text below image
+description: Hi, I’m a backend engineer with 5 years of experience. My background in CS, passion for coding daily, and occasional technical blogging equip me to tackle complex problems.
 show_downloads: true
