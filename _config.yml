@@ -5,7 +5,7 @@ logo: /assets/img/headshot_circle.png
 description: Hi, I’m a backend engineer with 5 years of experience. My background in CS, passion for coding daily, and occasional technical blogging equip me to tackle complex problems.
 show_downloads: true
 github:
-  zip_url: http://example.com/download.zip
-  another_url: another value
+  zip_url: assets/Prajyot_Karnik_676.pdf
+  linkedIn: https://www.linkedin.com/in/prajyot-karnik/
 #[Download my resume](assets/Prajyot_Karnik_676.pdf)  
 #[Connect with me on LinkedIn](https://www.linkedin.com/in/prajyot-karnik/)
