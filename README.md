@@ -2,11 +2,11 @@
 *Hi, I’m a backend engineer with 5 years of experience. My background in CS, passion for coding daily, and occasional technical blogging equip me to tackle complex problems with confidence.*
 
 ### Technical skills:
-- I primarily code in Java but also have experience with Python, JavaScript, C++, and Go.
+- I code in Java but also know Python, JS, and Go.
 - I’m a Spring Boot enthusiast, which is a Java-based web framework.
-- Proficient in building APIs using REST, GraphQL, and gRPC protocols.
-- Skilled in deploying software using Kubernetes, Docker, and GitLab.
-- Experienced with Kafka, Flink, Spark, RabbitMQ, and Elasticsearch for data processing, searching, and streaming.
+- Skilled in building APIs with REST, GraphQL, and gRPC.
+- Proficient in deploying software with Kubernetes, Docker, and GitLab.
+- Experienced with Kafka, Flink, Spark, RabbitMQ, and Elasticsearch.
 - Strong knowledge of AWS and Azure cloud platforms.
 
 ### Education:
@@ -15,15 +15,14 @@
 
 ### Work Experience:
 **Software Engineer @ Dish Network (March 2024 - Present)** <br>
-*I’m a developer on this epic team called ‘Events’  that handles communication on behalf of other teams. This involves receiving close to 10 million events and notifications in a single day and routing them to their respective targets.*
-##### Projects I have built or contributed to independently so far
-#### Unified Deployment with Harness
+I’m a developer on this epic team called ‘Events’  that handles communication on behalf of other teams. This involves receiving close to 10 million events and notifications in a single day and routing them to their respective targets. Following are some of my contributions
+Unified Deployment with Harness<br>
 We traditionally used GitLab for code deployment across repositories and CloudFormation for AWS-based software. As pipeline issues arose—code inconsistently deploying across environments and delayed approvals due to inaccessible files—we conducted R&D to find a better solution. This led to adopting Harness, unifying deployments on a single platform for better tracking and consistency.
-#### Scaling Event Processing to 5 Million Without Lambda Throttling
+Scaling Event Processing to 5 Million Without Lambda Throttling<br>
 We scaled event processing from 1 million to 5 million without crashing AWS Lambda by introducing AWS SQS as a pseudo buffer between AWS EventBridge and Lambda. This effectively prevented Lambda throttling, enabling smooth and efficient scaling.
-#### API for Safe Event Stream Management
+API for Safe Event Stream Management<br>
 We designed an API to shut off the stream of events from specific sources flagged as unsafe, ensuring the rest of the workflow continued uninterrupted.
-#### Customizable Delays for Event Delivery
+Customizable Delays for Event Delivery<br>
 In scenarios requiring delayed event delivery (e.g., 15, 25, or 45 minutes), we developed an endpoint that accepts a customizable delay value. AWS Scheduled Events were used to manage these delays with precision.
 
 
