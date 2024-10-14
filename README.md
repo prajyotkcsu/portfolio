@@ -14,7 +14,7 @@
 - B.S. Information Technology; Mumbai University (May 2017)
 
 ### Work Experience:
-**Software Engineer @ Dish Network (March 2024 - Present)**
+**Software Engineer @ Dish Network (March 2024 - Present)** <br>
 *I’m a developer on this epic team called ‘Events’  that handles communication on behalf of other teams. This involves receiving close to 10 million events and notifications in a single day and routing them to their respective targets.*
 ##### Projects I have built or contributed to independently so far
 #### Unified Deployment with Harness
@@ -27,7 +27,7 @@ We designed an API to shut off the stream of events from specific sources flagge
 In scenarios requiring delayed event delivery (e.g., 15, 25, or 45 minutes), we developed an endpoint that accepts a customizable delay value. AWS Scheduled Events were used to manage these delays with precision.
 
 
-**Software Engineer @ Financial Software & Systems (March 2018 - March 2021)**
+**Software Engineer @ Financial Software & Systems (March 2018 - March 2021)** <br>
 *I’m a developer on this epic team called ‘Events’  that handles communication on behalf of other teams. This involves receiving close to 10 million events and notifications in a single day and routing them to their respective targets.*
 ##### Projects worked on
 ###### 1.	Translated a monolithic application to microservices.
