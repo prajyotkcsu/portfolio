@@ -10,8 +10,8 @@
 - Strong knowledge of AWS and Azure cloud platforms.
 
 ### Education:
-- M.S. Business Analytics; California State University, East Bay (May 2023)
-- B.S. Information Technology; Mumbai University (May 2017)
+- M.S. Business Analytics; California State University, East Bay; 2023
+- B.S. Information Technology; Mumbai University; 2017
 
 ### Work Experience:
 **Software Engineer @ Dish Network (March 2024 - Present)** <br>
@@ -27,10 +27,10 @@ Customizable Delays for Event Delivery: In scenarios requiring delayed event del
 
 
 **Software Engineer @ Financial Software & Systems (March 2018 - March 2021)** <br>
-*I’m a developer on this epic team called ‘Events’  that handles communication on behalf of other teams. This involves receiving close to 10 million events and notifications in a single day and routing them to their respective targets.*
-##### Projects worked on
-###### 1.	Translated a monolithic application to microservices.
-We traditionally used GitLab for code deployment across repositories and CloudFormation for AWS-based software. As pipeline issues arose—code inconsistently deploying across environments and delayed approvals due to inaccessible files—we conducted R&D to find a better solution. This led to adopting Harness, unifying deployments on a single platform for better tracking and consistency.
+I’m a developer on this epic team called ‘Events’  that handles communication on behalf of other teams. This involves receiving close to 10 million events and notifications in a single day and routing them to their respective targets. Following are some of my contributions,<br>
+<br>
+Translated a monolithic application to microservices: We traditionally used GitLab for code deployment across repositories and CloudFormation for AWS-based software. As pipeline issues arose—code inconsistently deploying across environments and delayed approvals due to inaccessible files—we conducted R&D to find a better solution. This led to adopting Harness, unifying deployments on a single platform for better tracking and consistency.<br>
+<br>
 
 ### Internships
 **Software Engineer @ Orb (November 2023 - February 2023)** <br> 
@@ -38,14 +38,14 @@ We traditionally used GitLab for code deployment across repositories and CloudFo
 **Software Engineer @ United Nations (January 2023 - May 2023)** <br> 
 
 ### Popular Articles
-**It’s Me, a Lambda: A Friendly Introduction to AWS Lambda** <br> 
-**Need to track data changes in DynamoDB? Try DynamoDB Streams!** <br> 
-**Imagine being stuck with this error forever — deleting and rewriting your Lambda function won’t help, but this will.** <br> 
+[It’s Me, a Lambda: A Friendly Introduction to AWS Lambda](https://medium.com/@prajyotkcsu/its-me-a-lambda-a-friendly-introduction-to-aws-lambda-1632e6cdd7fd)<br> 
+[Need to track data changes in DynamoDB? Try DynamoDB Streams](https://medium.com/@prajyotkcsu/need-to-track-data-changes-in-dynamodb-try-dynamodb-streams-d286a2f1b115)<br> 
+[Imagine being stuck with this error forever — deleting and rewriting your Lambda function won’t help, but this will](https://medium.com/@prajyotkcsu/imagine-being-stuck-with-this-error-forever-deleting-and-rewriting-your-lambda-function-wont-96814d8b33e7)<br> 
 
 ### Personal Projects
 **Restuarant finder using Elasticsearch** <br> 
 **Reminder app using Kafka** <br> 
 
 ### Leetcode solutions
-[gitlab repo]https://github.com/prajyotkcsu/leetcode-solutions
+[gitlab repo](https://github.com/prajyotkcsu/leetcode-solutions)
 
