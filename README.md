@@ -2,12 +2,12 @@
 *Hi, I’m a backend engineer with 5 years of experience. My background in CS, passion for coding daily, and occasional technical blogging equip me to tackle complex problems with confidence.*
 
 ### Technical skills:
-- I code in Java but also know Python, JS, and Go.
-- I’m a Spring Boot enthusiast, which is a Java-based web framework.
-- Skilled in building APIs with REST, GraphQL, and gRPC.
-- Proficient in deploying software with Kubernetes, Docker, and GitLab.
-- Experienced with Kafka, Flink, Spark, RabbitMQ, and Elasticsearch.
-- Strong knowledge of AWS and Azure cloud platforms.
+I code in Java but also know Python, JS, and Go.<br>
+I’m a Spring Boot enthusiast, which is a Java-based web framework.<br>
+Skilled in building APIs with REST, GraphQL, and gRPC.<br>
+Proficient in deploying software with Kubernetes, Docker, and GitLab.<br>
+Experienced with Kafka, Flink, Spark, RabbitMQ, and Elasticsearch.<br>
+Strong knowledge of AWS and Azure cloud platforms.<br>
 
 ### Education:
 - M.S. Business Analytics; California State University, East Bay; 2023
