@@ -1,4 +1,8 @@
 # Software Engineer
+[Download my resume](https://drive.google.com/file/d/1xLvY-rFmPIQXLBXji0rzVeuIhh-RfAGx/view?usp=sharing)<br>
+[Connect with me on LinkedIn](https://github.com/prajyotkcsu/remind-gpt)<br>
+[Read my blogs](https://medium.com/@prajyotkcsu)<br>
+
 ### Education:
 - M.S. Business Analytics; California State University, East Bay; 2023
 - B.S. Information Technology; Mumbai University; 2017
