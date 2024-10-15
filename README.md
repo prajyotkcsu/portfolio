@@ -1,6 +1,6 @@
 # Software Engineer
 [Download my resume](https://drive.google.com/file/d/1xLvY-rFmPIQXLBXji0rzVeuIhh-RfAGx/view?usp=sharing)<br>
-[Connect with me on LinkedIn](https://github.com/prajyotkcsu/remind-gpt)<br>
+[Connect with me on LinkedIn](https://www.linkedin.com/in/prajyot-karnik/)<br>
 [Read my blogs](https://medium.com/@prajyotkcsu)<br>
 
 ### Education:
